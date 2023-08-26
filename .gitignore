@@ -1,0 +1,7 @@
+/target
+/.idea
+rust-learan-note.txt
+.env
+Rocket.toml
+**/*.rs.bk
+*.key
